@@ -14,7 +14,7 @@ const CustomButton = ({text, color, onClick}) => <div
 CustomButton.defaultProps = {
     text: "Default Button",
     color: "#DAB",
-    onclick: ButtonClick
+    onClick: ButtonClick
 }
 export default CustomButton;
 

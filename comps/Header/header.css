@@ -1,11 +1,11 @@
 .header h1 {
     font-size: 30px;
-    padding: 10px;
+    padding: 4px;
     display: inline-flex;
-    color: white;
+    color:black;
     border-radius: 10px;
 }
 .header {
-    background-color: #ABC;
-    margin: 10px;
+    /* background-color: #ABC; */
+    margin: 2px;
 }
